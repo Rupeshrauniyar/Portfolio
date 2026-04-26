@@ -430,7 +430,7 @@ const Home = () => {
             <div className="flex justify-between items-end -mt-11 mb-3">
               <div className="w-[150px] h-[150px] rounded-full border-4 border-black overflow-hidden flex-shrink-0 bg-[#1a1a2e]">
                 <img
-                  src="./pi/MAIN.jpeg"
+                  src="https://raw.githubusercontent.com/Rupeshrauniyar/Portfolio/main/Frontend/pi/MAIN.jpeg"
                   alt="avatar"
                   className="w-full h-full object-cover"
                 />
